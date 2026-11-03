@@ -1,0 +1,7 @@
+name: BiLSTMAttention
+input_dim: 128
+hidden_size: 128
+num_layers: 2
+bidirectional: true
+num_classes: 262
+dropout: 0.3

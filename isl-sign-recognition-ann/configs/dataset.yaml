@@ -1,0 +1,6 @@
+# Paths are examples. Keep raw videos and feature arrays in Google Drive.
+manifest: /content/gdrive/MyDrive/ISL_Sign_Recognition/audit/full_include_working_manifest.csv
+video_root: /content/gdrive/MyDrive/ISL_Sign_Recognition/dataset/extracted
+expected_rows: 4257
+num_classes_expected: 262
+split_column: split
